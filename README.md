@@ -12,7 +12,7 @@ Triển khai
 Bắt đầu
 Fork dự án này qua tài khoản GitHub của bạn（trên PC có thể thấy nút Fork trên cùng bên tay phải, ví dụ tài khoản của bạn tên là example）
 Sửa lại tên dự án thành tên bất kỳ không nên chứa hai từ khóa v2ray và heroku（Ví dụ đổi thành demo）
-Sửa lại file README.md，đường dẫn kim7tin/v2heroku bằng đường dẫn của bạn（ví dụ example/demo）
+Sửa lại file README.md，đường dẫn TroLyAmazon/v2ray-vmess-heroku bằng đường dẫn của bạn（ví dụ example/demo）
 Deploy
 
 Quay lại trang chủ của dự án，bấm vào liên kết để triển khai V2Ray
@@ -20,7 +20,8 @@ Quay lại trang chủ của dự án，bấm vào liên kết để triển kha
 Các đối số sẽ dùng trong quá trình cài đặt。
 
 Đối số	Mặc định	Diễn giải
-ID	ad806487-2d26-4636-98b6-ab85cc8521f7	VMess user ID
+ID	ad806487-2d26-4636-98b6-ab85cc8521f7	
+VMess user ID
 AID	64	AlterID，Số từ 0 đến 65535
 WSPATH	/	
 Truy cập CloudFlare
